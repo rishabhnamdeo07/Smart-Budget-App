@@ -285,7 +285,7 @@ if not df.empty:
 
     if income1 > 0:
         percent = (expense/income) * 100
-        st.write(f"📊 You spent {percent:.1f}% of your income this")
+        st.write(f"📊 You spent {percent:.1f}% of your income")
 
     
     if income1 > 0:
